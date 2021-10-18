@@ -1,5 +1,5 @@
 {
-  "name": "bot-message-firing",
+  "name": "bot-telegram-pet",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iryna-markovich/bot-message-firing.git"
+    "url": "git+https://github.com/iryna-markovich/bot-telegram-pet.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iryna-markovich/bot-message-firing/issues"
+    "url": "https://github.com/iryna-markovich/bot-telegram-pet/issues"
   },
-  "homepage": "https://github.com/iryna-markovich/bot-message-firing#readme",
+  "homepage": "https://github.com/iryna-markovich/bot-telegram-pet#readme",
   "dependencies": {
     "dotenv": "^10.0.0",
     "telegraf": "^4.4.2"
