@@ -10,3 +10,4 @@ npm i
 ```bash
 node app.js
 ```
+4. visit https://t.me/minionpet_bot
